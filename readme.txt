@@ -1,6 +1,6 @@
 === Plugin Downloads Display ===
 Contributors: dantaylorseo
-Tags: twitter, twitter button, add twitter button, new twitter button, twitter button plugin, tweet button
+Tags: plugin downloads, plugin development, shortcode, developer
 Requires at least: 3.0
 Tested up to: 3.8.1
 Stable tag: 1.0
