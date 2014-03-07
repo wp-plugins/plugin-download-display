@@ -1,6 +1,6 @@
 === Plugin Downloads Display ===
 Contributors: dantaylorseo
-Tags: twitter, twitter button, add twitter button, new twitter button, twitter button plugin, tweet button
+Tags: plugin downloads, plugin development, shortcode, developer
 Requires at least: 3.0
 Tested up to: 3.8.1
 Stable tag: 1.0
@@ -22,7 +22,7 @@ Function: `<?php plugin_downloads("slug-of-plugin"); ?>`
 1. Upload `plugin-download-display` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use shortcode `[show_downloads slug="slug-of-plugin"]` in posts/pages
-4. Use function `<?php plugin_downloads("slug-of-plugin"); ?>` in templates
+4. Use function `<?php plugin_downloads('slug-of-plugin'); ?>` in templates
 
 == Changelog ==
 
