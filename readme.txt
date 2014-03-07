@@ -16,13 +16,15 @@ Shortcode: `[show_downloads slug="slug-of-plugin"]`
 
 Function: `<?php plugin_downloads("slug-of-plugin"); ?>`
 
+* Credit Harish Chouhan [Tuts+](http://code.tutsplus.com/tutorials/communicating-with-the-wordpress-org-plugin-api--wp-33069) for original code.
+
 
 == Installation ==
 
 1. Upload `plugin-download-display` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use shortcode `[show_downloads slug="slug-of-plugin"]` in posts/pages
-4. Use function `<?php plugin_downloads("slug-of-plugin"); ?>` in templates
+4. Use function `<?php plugin_downloads('slug-of-plugin'); ?>` in templates
 
 == Changelog ==
 
