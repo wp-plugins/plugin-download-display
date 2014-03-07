@@ -16,6 +16,8 @@ Shortcode: `[show_downloads slug="slug-of-plugin"]`
 
 Function: `<?php plugin_downloads("slug-of-plugin"); ?>`
 
+* Credit Harish Chouhan [Tuts+](http://code.tutsplus.com/tutorials/communicating-with-the-wordpress-org-plugin-api--wp-33069) for original code.
+
 
 == Installation ==
 
