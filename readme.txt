@@ -12,7 +12,7 @@ A plugin that allows you to display the number of times a plugin has been downlo
 
 A plugin that allows you to display the number of times a plugin has been downloaded. Can either be displayed in posts with a shortcode or in templates using a function.
 
-Shortcode: `[show_downloads slug="slug-of-plugin"]`
+Shortcode: `[show_downloads slug="slug-of-plugin"]`.
 
 Function: `<?php plugin_downloads("slug-of-plugin"); ?>`
 
